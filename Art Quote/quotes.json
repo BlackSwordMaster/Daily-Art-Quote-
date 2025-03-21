@@ -1,0 +1,182 @@
+[
+  {
+    "content": "Art is not what you see, but what you make others see.",
+    "author": "Edgar Degas",
+    "image": "images/edger.jpg",
+    "bio": "French Impressionist famous for depictions of dancers and everyday life."
+  },
+  {
+    "content": "Creativity takes courage.",
+    "author": "Henri Matisse",
+    "image": "images/placeholder.jpg",
+    "bio": "Known for his bold colors and contributions to Fauvism."
+  },
+  {
+    "content": "The purpose of art is washing the dust of daily life off our souls.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Co-founder of Cubism and one of the most influential 20th-century artists."
+  },
+  {
+    "content": "Every artist was first an amateur.",
+    "author": "Ralph Waldo Emerson",
+    "image": "images/placeholder.jpg",
+    "bio": "American essayist and philosopher who inspired artistic independence."
+  },
+  {
+    "content": "I dream my painting and I paint my dream.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Post-impressionist master known for Starry Night and expressive color."
+  },
+  {
+    "content": "I paint flowers so they will not die.",
+    "author": "Frida Kahlo",
+    "image": "images/placeholder.jpg",
+    "bio": "Mexican painter known for self-portraits and surrealism."
+  },
+  {
+    "content": "Great art picks up where nature ends.",
+    "author": "Marc Chagall",
+    "image": "images/placeholder.jpg",
+    "bio": "Russian-French artist blending fantasy and folklore."
+  },
+  {
+    "content": "Art enables us to find ourselves and lose ourselves at the same time.",
+    "author": "Thomas Merton",
+    "image": "images/placeholder.jpg",
+    "bio": "Trappist monk and writer who explored the spiritual value of art."
+  },
+  {
+    "content": "Art should comfort the disturbed and disturb the comfortable.",
+    "author": "Banksy",
+    "image": "images/placeholder.jpg",
+    "bio": "Anonymous British street artist known for provocative murals."
+  },
+  {
+    "content": "Color is a power which directly influences the soul.",
+    "author": "Wassily Kandinsky",
+    "image": "images/placeholder.jpg",
+    "bio": "Russian pioneer of abstract art and spiritual color theory."
+  },
+  {
+    "content": "To be an artist is to believe in life.",
+    "author": "Henry Moore",
+    "image": "images/placeholder.jpg",
+    "bio": "English sculptor known for large-scale bronze figures."
+  },
+  {
+    "content": "Painting is self-discovery. Every good artist paints what he is.",
+    "author": "Jackson Pollock",
+    "image": "images/placeholder.jpg",
+    "bio": "Abstract expressionist known for his drip-painting technique."
+  },
+  {
+    "content": "Art is the lie that enables us to realize the truth.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Continually reinvented his style throughout his life."
+  },
+  {
+    "content": "Art must be life \u2014 it must belong to everybody.",
+    "author": "Marina Abramovi\u0107",
+    "image": "images/placeholder.jpg",
+    "bio": "Performance artist pushing limits of body and mind."
+  },
+  {
+    "content": "The world doesn\u2019t make sense, so why should I paint pictures that do?",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "His work spanned realism, cubism, and surrealism."
+  },
+  {
+    "content": "An artist is not paid for his labor but for his vision.",
+    "author": "James Whistler",
+    "image": "images/placeholder.jpg",
+    "bio": "19th-century American artist known for his tonal harmony."
+  },
+  {
+    "content": "Art is the most beautiful of all lies.",
+    "author": "Claude Debussy",
+    "image": "images/placeholder.jpg",
+    "bio": "Impressionist composer who also expressed deep artistic philosophies."
+  },
+  {
+    "content": "A work of art which did not begin in emotion is not art.",
+    "author": "Paul C\u00e9zanne",
+    "image": "images/placeholder.jpg",
+    "bio": "French Post-Impressionist who laid groundwork for modern art."
+  },
+  {
+    "content": "Art is to console those who are broken by life.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Battled personal struggles while creating timeless art."
+  },
+  {
+    "content": "Art is not freedom from discipline, but disciplined freedom.",
+    "author": "John F. Kennedy",
+    "image": "images/placeholder.jpg",
+    "bio": "U.S. President who advocated for arts and culture."
+  },
+  {
+    "content": "Art speaks where words are unable to explain.",
+    "author": "Mathiole",
+    "image": "images/placeholder.jpg",
+    "bio": "Contemporary digital artist with cosmic and dreamlike themes."
+  },
+  {
+    "content": "Art is therapy.",
+    "author": "Tracey Emin",
+    "image": "images/placeholder.jpg",
+    "bio": "British artist known for confessional and raw autobiographical work."
+  },
+  {
+    "content": "The only time I feel alive is when I\u2019m painting.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Created over 2,000 artworks despite hardship."
+  },
+  {
+    "content": "Painting is just another way of keeping a diary.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Left behind over 20,000 works in multiple styles."
+  },
+  {
+    "content": "Inspiration exists, but it has to find you working.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "A tireless worker and revolutionary force in modern art."
+  },
+  {
+    "content": "I don\u2019t paint things. I only paint the difference between things.",
+    "author": "Henri Matisse",
+    "image": "images/placeholder.jpg",
+    "bio": "His art became brighter and bolder as he aged."
+  },
+  {
+    "content": "Drawing is the honesty of the art.",
+    "author": "Jean-Auguste-Dominique Ingres",
+    "image": "images/placeholder.jpg",
+    "bio": "French Neoclassical painter with exceptional draftsmanship."
+  },
+  {
+    "content": "A true artist is not one who is inspired, but one who inspires others.",
+    "author": "Salvador Dal\u00ed",
+    "image": "images/placeholder.jpg",
+    "bio": "Surrealist master of melting clocks and dream logic."
+  },
+  {
+    "content": "The object of art is not to reproduce reality, but to create a reality of the same intensity.",
+    "author": "Alberto Giacometti",
+    "image": "images/placeholder.jpg",
+    "bio": "Swiss sculptor known for elongated human forms."
+  },
+  {
+    "content": "Life beats down and crushes the soul and art reminds you that you have one.",
+    "author": "Stella Adler",
+    "image": "images/placeholder.jpg",
+    "bio": "Acting teacher and advocate for artistic purpose."
+  }
+]
