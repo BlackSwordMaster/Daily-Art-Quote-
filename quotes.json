@@ -1,0 +1,272 @@
+[
+  {
+    "content": "Art is not what you see, but what you make others see.",
+    "author": "Edgar Degas",
+    "image": "images/edger.jpg",
+    "bio": "French Impressionist famous for depictions of dancers and everyday life.",
+    "medium": "Painting",
+    "piece": "The Ballet Class",
+    "year": "1889"
+  },
+  {
+    "content": "Creativity takes courage.",
+    "author": "Henri Matisse",
+    "image": "images/snail.jpg",
+    "bio": "Known for his bold colors and contributions to Fauvism.",
+    "medium": "Painting & Collage",
+    "piece": "The Snail",
+    "year": "1943"
+  },
+  {
+    "content": "The purpose of art is washing the dust of daily life off our souls.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Co-founder of Cubism and one of the most influential 20th-century artists.",
+    "medium": "Painting & Sculpture",
+    "piece": "Les Demoiselles d'Avignon",
+    "year": "1907"
+  },
+  {
+    "content": "Every artist was first an amateur.",
+    "author": "Ralph Waldo Emerson",
+    "image": "images/placeholder.jpg",
+    "bio": "American essayist and philosopher who inspired artistic independence.",
+    "medium": "Essay",
+    "piece": "The American Scholar",
+    "year": "1837"
+  },
+  {
+    "content": "I dream my painting and I paint my dream.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Post-impressionist master known for Starry Night and expressive color.",
+    "medium": "Painting",
+    "piece": "Starry Night",
+    "year": "1889"
+  },
+  {
+    "content": "I paint flowers so they will not die.",
+    "author": "Frida Kahlo",
+    "image": "images/placeholder.jpg",
+    "bio": "Mexican painter known for self-portraits and surrealism.",
+    "medium": "Painting",
+    "piece": "The Two Fridas",
+    "year": "1939"
+  },
+  {
+    "content": "Great art picks up where nature ends.",
+    "author": "Marc Chagall",
+    "image": "images/placeholder.jpg",
+    "bio": "Russian-French artist blending fantasy and folklore.",
+    "medium": "Painting",
+    "piece": "I and the Village",
+    "year": "1911"
+  },
+  {
+    "content": "Art enables us to find ourselves and lose ourselves at the same time.",
+    "author": "Thomas Merton",
+    "image": "images/placeholder.jpg",
+    "bio": "Trappist monk and writer who explored the spiritual value of art.",
+    "medium": "Writing",
+    "piece": "No Man Is an Island",
+    "year": "1955"
+  },
+  {
+    "content": "Art should comfort the disturbed and disturb the comfortable.",
+    "author": "Banksy",
+    "image": "images/placeholder.jpg",
+    "bio": "Anonymous British street artist known for provocative murals.",
+    "medium": "Street Art",
+    "piece": "Girl with Balloon",
+    "year": "2002"
+  },
+  {
+    "content": "Color is a power which directly influences the soul.",
+    "author": "Wassily Kandinsky",
+    "image": "images/placeholder.jpg",
+    "bio": "Russian pioneer of abstract art and spiritual color theory.",
+    "medium": "Painting",
+    "piece": "Composition VIII",
+    "year": "1923"
+  },
+  {
+    "content": "To be an artist is to believe in life.",
+    "author": "Henry Moore",
+    "image": "images/placeholder.jpg",
+    "bio": "English sculptor known for large-scale bronze figures.",
+    "medium": "Sculpture",
+    "piece": "Reclining Figure",
+    "year": "1939"
+  },
+  {
+    "content": "Painting is self-discovery. Every good artist paints what he is.",
+    "author": "Jackson Pollock",
+    "image": "images/placeholder.jpg",
+    "bio": "Abstract expressionist known for his drip-painting technique.",
+    "medium": "Painting",
+    "piece": "No. 5",
+    "year": "1948"
+  },
+  {
+    "content": "Art is the lie that enables us to realize the truth.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Continually reinvented his style throughout his life.",
+    "medium": "Painting & Sculpture",
+    "piece": "Les Demoiselles d'Avignon",
+    "year": "1907"
+  },
+  {
+    "content": "Art must be life — it must belong to everybody.",
+    "author": "Marina Abramović",
+    "image": "images/placeholder.jpg",
+    "bio": "Performance artist pushing limits of body and mind.",
+    "medium": "Performance Art",
+    "piece": "The Artist Is Present",
+    "year": "2010"
+  },
+  {
+    "content": "The world doesn’t make sense, so why should I paint pictures that do?",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "His work spanned realism, cubism, and surrealism.",
+    "medium": "Painting & Sculpture",
+    "piece": "Les Demoiselles d'Avignon",
+    "year": "1907"
+  },
+  {
+    "content": "An artist is not paid for his labor but for his vision.",
+    "author": "James Whistler",
+    "image": "images/placeholder.jpg",
+    "bio": "19th-century American artist known for his tonal harmony.",
+    "medium": "Painting",
+    "piece": "Whistler’s Mother",
+    "year": "1871"
+  },
+  {
+    "content": "Art is the most beautiful of all lies.",
+    "author": "Claude Debussy",
+    "image": "images/placeholder.jpg",
+    "bio": "Impressionist composer who also expressed deep artistic philosophies.",
+    "medium": "Music Composition",
+    "piece": "Clair de Lune",
+    "year": "1905"
+  },
+  {
+    "content": "A work of art which did not begin in emotion is not art.",
+    "author": "Paul Cézanne",
+    "image": "images/placeholder.jpg",
+    "bio": "French Post-Impressionist who laid groundwork for modern art.",
+    "medium": "Painting",
+    "piece": "The Card Players",
+    "year": "1895"
+  },
+  {
+    "content": "Art is to console those who are broken by life.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Battled personal struggles while creating timeless art.",
+    "medium": "Painting",
+    "piece": "Starry Night",
+    "year": "1889"
+  },
+  {
+    "content": "Art is not freedom from discipline, but disciplined freedom.",
+    "author": "John F. Kennedy",
+    "image": "images/placeholder.jpg",
+    "bio": "U.S. President who advocated for arts and culture.",
+    "medium": "Speech",
+    "piece": "Amherst College Speech",
+    "year": "1963"
+  },
+  {
+    "content": "Art speaks where words are unable to explain.",
+    "author": "Mathiole",
+    "image": "images/placeholder.jpg",
+    "bio": "Contemporary digital artist with cosmic and dreamlike themes.",
+    "medium": "Digital Art",
+    "piece": "Dream Series",
+    "year": "2020"
+  },
+  {
+    "content": "Art is therapy.",
+    "author": "Tracey Emin",
+    "image": "images/placeholder.jpg",
+    "bio": "British artist known for confessional and raw autobiographical work.",
+    "medium": "Installation Art",
+    "piece": "My Bed",
+    "year": "1998"
+  },
+  {
+    "content": "The only time I feel alive is when I’m painting.",
+    "author": "Vincent van Gogh",
+    "image": "images/placeholder.jpg",
+    "bio": "Created over 2,000 artworks despite hardship.",
+    "medium": "Painting",
+    "piece": "Starry Night",
+    "year": "1889"
+  },
+  {
+    "content": "Painting is just another way of keeping a diary.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "Left behind over 20,000 works in multiple styles.",
+    "medium": "Painting & Sculpture",
+    "piece": "Les Demoiselles d'Avignon",
+    "year": "1907"
+  },
+  {
+    "content": "Inspiration exists, but it has to find you working.",
+    "author": "Pablo Picasso",
+    "image": "images/placeholder.jpg",
+    "bio": "A tireless worker and revolutionary force in modern art.",
+    "medium": "Painting & Sculpture",
+    "piece": "Les Demoiselles d'Avignon",
+    "year": "1907"
+  },
+  {
+    "content": "I don’t paint things. I only paint the difference between things.",
+    "author": "Henri Matisse",
+    "image": "images/snail.jpg",
+    "bio": "His art became brighter and bolder as he aged.",
+    "medium": "Painting & Collage",
+    "piece": "The Snail",
+    "year": "1943"
+  },
+  {
+    "content": "Drawing is the honesty of the art.",
+    "author": "Jean-Auguste-Dominique Ingres",
+    "image": "images/placeholder.jpg",
+    "bio": "French Neoclassical painter with exceptional draftsmanship.",
+    "medium": "Painting",
+    "piece": "Grande Odalisque",
+    "year": "1814"
+  },
+  {
+    "content": "A true artist is not one who is inspired, but one who inspires others.",
+    "author": "Salvador Dalí",
+    "image": "images/placeholder.jpg",
+    "bio": "Surrealist master of melting clocks and dream logic.",
+    "medium": "Painting",
+    "piece": "The Persistence of Memory",
+    "year": "1931"
+  },
+  {
+    "content": "The object of art is not to reproduce reality, but to create a reality of the same intensity.",
+    "author": "Alberto Giacometti",
+    "image": "images/placeholder.jpg",
+    "bio": "Swiss sculptor known for elongated human forms.",
+    "medium": "Sculpture",
+    "piece": "Walking Man I",
+    "year": "1960"
+  },
+  {
+    "content": "Life beats down and crushes the soul and art reminds you that you have one.",
+    "author": "Stella Adler",
+    "image": "images/placeholder.jpg",
+    "bio": "Acting teacher and advocate for artistic purpose.",
+    "medium": "Theater",
+    "piece": "Acting Techniques",
+    "year": "1950"
+  }
+]
