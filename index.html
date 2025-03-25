@@ -1,28 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- ========== META & TITLE ========== -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Daily Art Quote</title>
+
+  <!-- ========== STYLES ========== -->
   <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet">
 </head>
+
 <body>
+  <!-- ========== MAIN LAYOUT WRAPPER ========== -->
   <div class="quote-layout">
+
+    <!-- ========== LEFT: IMAGE SECTION ========== -->
     <div class="quote-image-section">
       <div class="quote-image-wrapper">
-      <img class="quote-image" src="" alt="Artist portrait" />
-      <div class="quote-info-row">
-        <div class="quote-medium"></div>
-        <div class="quote-piece-year"></div>
+        <img class="quote-image" src="" alt="Artist portrait" />
+
+        <!-- Artwork Meta: Medium & Year -->
+        <div class="quote-info-row">
+          <div class="quote-medium"></div>
+         <div class="quote-piece-year"></div>
       </div>
+
+      <!-- Extra Artwork Info -->
       <div class="quote-art-info"></div>
     </div>
   </div>
     
+    <!-- ========== RIGHT: QUOTE & DETAILS ========== -->
     <div class="quote-text-section">
       
-      <!-- Top Meta Bar -->
+     <!-- ========== META BAR: DATE & SHARE BUTTON ========== -->
       <div class="quote-meta-bar">
         <div class="meta-left">
           <span class="quote-date"></span>
@@ -37,32 +49,27 @@
           </svg>
         </button>
       </div>
-
-      <!-- Medium -->
      
-
-      <!-- Quote Content -->
+      <!-- ========== QUOTE CONTENT ========== -->
       <div class="quote-content">Loading quote...</div>
 
-      <!-- Author + Bio -->
+      <!-- ========== AUTHOR & BIO ========== -->
       <div class="quote-author"></div>
       <div class="quote-bio"></div>
 
-      <!-- Art Info -->
-      <div class="quote-art-info"></div>
-
-      <!-- Personaland Link -->
+      <!-- ========== PERSONALAND LINK ========== -->
       <div class="quote-personaland">
         <a href="https://personaland.com/" target="_blank" class="personaland-link">
           See more from Personaland →
         </a>
       </div>
 
-      <!-- Feedback -->
+      <!-- ========== SHARE FEEDBACK MESSAGE ========== -->
       <div class="share-status"></div>
     </div>
   </div>
 
+  <!-- ========== JAVASCRIPT ========== -->
   <script src="main.js"></script>
 </body>
 </html>
