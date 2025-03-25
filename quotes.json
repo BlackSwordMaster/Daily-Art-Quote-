@@ -3,28 +3,31 @@
     "content": "Art is not what you see, but what you make others see.",
     "author": "Edgar Degas",
     "image": "images/edger.jpg",
-    "bio": "French Impressionist famous for depictions of dancers and everyday life.",
+    "bio": "Edgar Degas was a French Impressionist painter and sculptor, renowned for his masterful depiction of movement, particularly of dancers. Though associated with the Impressionist movement, he preferred to be called a realist. He often painted rehearsals and everyday life, capturing fleeting moments with innovative composition and technique.",
     "medium": "Painting",
     "piece": "The Ballet Class",
-    "year": "1889"
+    "year": "1889",
+    "artInfo": "This painting captures a candid rehearsal moment among ballerinas, highlighting Degas' fascination with movement and behind-the-scenes life in the Paris Opera."
   },
   {
     "content": "Creativity takes courage.",
     "author": "Henri Matisse",
     "image": "images/snail.jpg",
-    "bio": "Known for his bold colors and contributions to Fauvism.",
+    "bio": "Henri Matisse was a leading figure in modern art and the founder of Fauvism, a movement known for its wild brushwork and vibrant colors. Over his career, he transitioned from painting to paper cut-outs due to health issues, pushing the boundaries of abstraction and visual emotion.",
     "medium": "Painting & Collage",
     "piece": "The Snail",
-    "year": "1943"
+    "year": "1943",
+    "artInfo": "The Snail is a late work created with paper cut-outs, arranged in a spiral form to represent a snail. It reflects Matisse’s turn to simplified forms and bold colors in his later years."
   },
   {
     "content": "The purpose of art is washing the dust of daily life off our souls.",
     "author": "Pablo Picasso",
     "image": "images/placeholder.jpg",
-    "bio": "Co-founder of Cubism and one of the most influential 20th-century artists.",
+    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
     "medium": "Painting & Sculpture",
     "piece": "Les Demoiselles d'Avignon",
-    "year": "1907"
+    "year": "1907",
+    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
   },
   {
     "content": "Every artist was first an amateur.",
@@ -39,10 +42,11 @@
     "content": "I dream my painting and I paint my dream.",
     "author": "Vincent van Gogh",
     "image": "images/placeholder.jpg",
-    "bio": "Post-impressionist master known for Starry Night and expressive color.",
+    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
     "medium": "Painting",
     "piece": "Starry Night",
-    "year": "1889"
+    "year": "1889",
+    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
   },
   {
     "content": "I paint flowers so they will not die.",
@@ -111,10 +115,11 @@
     "content": "Art is the lie that enables us to realize the truth.",
     "author": "Pablo Picasso",
     "image": "images/placeholder.jpg",
-    "bio": "Continually reinvented his style throughout his life.",
+    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
     "medium": "Painting & Sculpture",
     "piece": "Les Demoiselles d'Avignon",
-    "year": "1907"
+    "year": "1907",
+    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
   },
   {
     "content": "Art must be life — it must belong to everybody.",
@@ -129,10 +134,11 @@
     "content": "The world doesn’t make sense, so why should I paint pictures that do?",
     "author": "Pablo Picasso",
     "image": "images/placeholder.jpg",
-    "bio": "His work spanned realism, cubism, and surrealism.",
+    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
     "medium": "Painting & Sculpture",
     "piece": "Les Demoiselles d'Avignon",
-    "year": "1907"
+    "year": "1907",
+    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
   },
   {
     "content": "An artist is not paid for his labor but for his vision.",
@@ -165,10 +171,11 @@
     "content": "Art is to console those who are broken by life.",
     "author": "Vincent van Gogh",
     "image": "images/placeholder.jpg",
-    "bio": "Battled personal struggles while creating timeless art.",
+    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
     "medium": "Painting",
     "piece": "Starry Night",
-    "year": "1889"
+    "year": "1889",
+    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
   },
   {
     "content": "Art is not freedom from discipline, but disciplined freedom.",
@@ -201,37 +208,41 @@
     "content": "The only time I feel alive is when I’m painting.",
     "author": "Vincent van Gogh",
     "image": "images/placeholder.jpg",
-    "bio": "Created over 2,000 artworks despite hardship.",
+    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
     "medium": "Painting",
     "piece": "Starry Night",
-    "year": "1889"
+    "year": "1889",
+    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
   },
   {
     "content": "Painting is just another way of keeping a diary.",
     "author": "Pablo Picasso",
     "image": "images/placeholder.jpg",
-    "bio": "Left behind over 20,000 works in multiple styles.",
+    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
     "medium": "Painting & Sculpture",
     "piece": "Les Demoiselles d'Avignon",
-    "year": "1907"
+    "year": "1907",
+    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
   },
   {
     "content": "Inspiration exists, but it has to find you working.",
     "author": "Pablo Picasso",
     "image": "images/placeholder.jpg",
-    "bio": "A tireless worker and revolutionary force in modern art.",
+    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
     "medium": "Painting & Sculpture",
     "piece": "Les Demoiselles d'Avignon",
-    "year": "1907"
+    "year": "1907",
+    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
   },
   {
     "content": "I don’t paint things. I only paint the difference between things.",
     "author": "Henri Matisse",
     "image": "images/snail.jpg",
-    "bio": "His art became brighter and bolder as he aged.",
+    "bio": "Henri Matisse was a leading figure in modern art and the founder of Fauvism, a movement known for its wild brushwork and vibrant colors. Over his career, he transitioned from painting to paper cut-outs due to health issues, pushing the boundaries of abstraction and visual emotion.",
     "medium": "Painting & Collage",
     "piece": "The Snail",
-    "year": "1943"
+    "year": "1943",
+    "artInfo": "The Snail is a late work created with paper cut-outs, arranged in a spiral form to represent a snail. It reflects Matisse’s turn to simplified forms and bold colors in his later years."
   },
   {
     "content": "Drawing is the honesty of the art.",
