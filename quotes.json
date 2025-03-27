@@ -1,283 +1,102 @@
 [
   {
-    "content": "Art is not what you see, but what you make others see.",
-    "author": "Edgar Degas",
-    "image": "images/edger.jpg",
-    "bio": "Edgar Degas was a French Impressionist painter and sculptor, renowned for his masterful depiction of movement, particularly of dancers. Though associated with the Impressionist movement, he preferred to be called a realist. He often painted rehearsals and everyday life, capturing fleeting moments with innovative composition and technique.",
-    "medium": "Painting",
-    "piece": "The Ballet Class",
-    "year": "1889",
-    "artInfo": "This painting captures a candid rehearsal moment among ballerinas, highlighting Degas' fascination with movement and behind-the-scenes life in the Paris Opera."
-  },
-  {
-    "content": "Creativity takes courage.",
-    "author": "Henri Matisse",
-    "image": "images/snail.jpg",
-    "bio": "Henri Matisse was a leading figure in modern art and the founder of Fauvism, a movement known for its wild brushwork and vibrant colors. Over his career, he transitioned from painting to paper cut-outs due to health issues, pushing the boundaries of abstraction and visual emotion.",
-    "medium": "Painting & Collage",
-    "piece": "The Snail",
-    "year": "1943",
-    "artInfo": "The Snail is a late work created with paper cut-outs, arranged in a spiral form to represent a snail. It reflects Matisse’s turn to simplified forms and bold colors in his later years."
-  },
-  {
-    "content": "The purpose of art is washing the dust of daily life off our souls.",
-    "author": "Pablo Picasso",
-    "image": "images/placeholder.jpg",
-    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
-    "medium": "Painting & Sculpture",
-    "piece": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
-  },
-  {
     "content": "Every artist was first an amateur.",
     "author": "Ralph Waldo Emerson",
     "image": "images/placeholder.jpg",
-    "bio": "American essayist and philosopher who inspired artistic independence.",
+    "bio": "Ralph Waldo Emerson was an American essayist, poet, and philosopher who led the Transcendentalist movement of the 19th century. His works encouraged individualism, nonconformity, and the spiritual importance of nature and creativity, inspiring generations of thinkers and artists.",
     "medium": "Essay",
     "piece": "The American Scholar",
-    "year": "1837"
-  },
-  {
-    "content": "I dream my painting and I paint my dream.",
-    "author": "Vincent van Gogh",
-    "image": "images/placeholder.jpg",
-    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
-    "medium": "Painting",
-    "piece": "Starry Night",
-    "year": "1889",
-    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
+    "year": "1837",
+    "artInfo": "'The American Scholar' was a speech delivered to Phi Beta Kappa at Harvard, calling for American intellectual independence and the elevation of the creative spirit. It became a foundational text of American cultural identity."
   },
   {
     "content": "I paint flowers so they will not die.",
     "author": "Frida Kahlo",
     "image": "images/placeholder.jpg",
-    "bio": "Mexican painter known for self-portraits and surrealism.",
+    "bio": "Frida Kahlo was a Mexican painter known for her vivid self-portraits and symbolic imagery drawn from Mexican culture and personal experience. Her work combines elements of realism and surrealism, often exploring identity, pain, and resilience.",
     "medium": "Painting",
     "piece": "The Two Fridas",
-    "year": "1939"
+    "year": "1939",
+    "artInfo": "'The Two Fridas' is a double self-portrait that explores Kahlo's emotional pain following her divorce from Diego Rivera. It symbolizes duality, cultural identity, and emotional vulnerability."
   },
   {
     "content": "Great art picks up where nature ends.",
     "author": "Marc Chagall",
     "image": "images/placeholder.jpg",
-    "bio": "Russian-French artist blending fantasy and folklore.",
+    "bio": "Marc Chagall was a Russian-French artist whose work fused folk culture, fantasy, and religious symbolism. Known for his dreamlike imagery and vibrant use of color, Chagall transcended traditional art boundaries with a poetic visual language.",
     "medium": "Painting",
     "piece": "I and the Village",
-    "year": "1911"
+    "year": "1911",
+    "artInfo": "'I and the Village' is a whimsical and surreal painting inspired by Chagall’s childhood memories of a Russian village. It features overlapping, symbolic imagery and a playful, almost dreamlike composition."
   },
   {
     "content": "Art enables us to find ourselves and lose ourselves at the same time.",
     "author": "Thomas Merton",
     "image": "images/placeholder.jpg",
-    "bio": "Trappist monk and writer who explored the spiritual value of art.",
+    "bio": "Thomas Merton was a Trappist monk, theologian, and writer whose works explored spirituality, contemplation, and human creativity. He believed deeply in the power of art as a bridge to the divine.",
     "medium": "Writing",
     "piece": "No Man Is an Island",
-    "year": "1955"
+    "year": "1955",
+    "artInfo": "In this contemplative work, Merton examines the nature of human connection and the spiritual dimensions of solitude, emphasizing how art and reflection can reveal profound truths about the self."
   },
   {
     "content": "Art should comfort the disturbed and disturb the comfortable.",
     "author": "Banksy",
     "image": "images/placeholder.jpg",
-    "bio": "Anonymous British street artist known for provocative murals.",
+    "bio": "Banksy is an anonymous British street artist known for politically charged, satirical, and thought-provoking works. His art blends humor with activism and appears in public spaces without permission.",
     "medium": "Street Art",
     "piece": "Girl with Balloon",
-    "year": "2002"
+    "year": "2002",
+    "artInfo": "'Girl with Balloon' is one of Banksy’s most iconic pieces, symbolizing lost innocence and hope. The simple stencil of a young girl reaching for a heart-shaped balloon resonates universally with themes of loss and longing."
   },
   {
     "content": "Color is a power which directly influences the soul.",
     "author": "Wassily Kandinsky",
     "image": "images/placeholder.jpg",
-    "bio": "Russian pioneer of abstract art and spiritual color theory.",
+    "bio": "Wassily Kandinsky was a Russian painter and art theorist credited with creating one of the first purely abstract works. He believed that colors and shapes could express inner emotional and spiritual states.",
     "medium": "Painting",
     "piece": "Composition VIII",
-    "year": "1923"
+    "year": "1923",
+    "artInfo": "'Composition VIII' is a bold abstract piece filled with geometric shapes and vivid color contrasts. It reflects Kandinsky’s belief in the spiritual resonance of color and form."
   },
   {
     "content": "To be an artist is to believe in life.",
     "author": "Henry Moore",
     "image": "images/placeholder.jpg",
-    "bio": "English sculptor known for large-scale bronze figures.",
+    "bio": "Henry Moore was an English sculptor renowned for his semi-abstract monumental bronze sculptures. He explored the human form through organic shapes and emphasized harmony with natural landscapes.",
     "medium": "Sculpture",
     "piece": "Reclining Figure",
-    "year": "1939"
+    "year": "1939",
+    "artInfo": "'Reclining Figure' is one of Moore’s recurring themes, reflecting his fascination with the human body and landscape. The abstracted forms suggest strength, serenity, and timeless presence."
   },
   {
     "content": "Painting is self-discovery. Every good artist paints what he is.",
     "author": "Jackson Pollock",
     "image": "images/placeholder.jpg",
-    "bio": "Abstract expressionist known for his drip-painting technique.",
+    "bio": "Jackson Pollock was an American abstract expressionist painter famous for his drip technique. His spontaneous and physical approach to painting broke traditional boundaries and reflected deep inner emotion.",
     "medium": "Painting",
     "piece": "No. 5",
-    "year": "1948"
-  },
-  {
-    "content": "Art is the lie that enables us to realize the truth.",
-    "author": "Pablo Picasso",
-    "image": "images/placeholder.jpg",
-    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
-    "medium": "Painting & Sculpture",
-    "piece": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
+    "year": "1948",
+    "artInfo": "'No. 5' exemplifies Pollock’s drip painting style, created by pouring paint directly onto a canvas laid on the floor. The chaotic, web-like patterns express energy, emotion, and the unconscious."
   },
   {
     "content": "Art must be life — it must belong to everybody.",
     "author": "Marina Abramović",
     "image": "images/placeholder.jpg",
-    "bio": "Performance artist pushing limits of body and mind.",
+    "bio": "Marina Abramović is a pioneering Serbian performance artist whose work explores endurance, pain, and the relationship between artist and audience. She challenges the boundaries of art through raw, immersive experiences.",
     "medium": "Performance Art",
     "piece": "The Artist Is Present",
-    "year": "2010"
-  },
-  {
-    "content": "The world doesn’t make sense, so why should I paint pictures that do?",
-    "author": "Pablo Picasso",
-    "image": "images/placeholder.jpg",
-    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
-    "medium": "Painting & Sculpture",
-    "piece": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
+    "year": "2010",
+    "artInfo": "In this powerful performance at MoMA, Abramović sat silently across from museum visitors for hours, engaging in mutual gaze. It explored vulnerability, presence, and human connection."
   },
   {
     "content": "An artist is not paid for his labor but for his vision.",
     "author": "James Whistler",
     "image": "images/placeholder.jpg",
-    "bio": "19th-century American artist known for his tonal harmony.",
+    "bio": "James Abbott McNeill Whistler was an American-born, British-based artist known for his elegant and tonal paintings. He advocated for “art for art’s sake,” focusing on aesthetic harmony over storytelling.",
     "medium": "Painting",
     "piece": "Whistler’s Mother",
-    "year": "1871"
-  },
-  {
-    "content": "Art is the most beautiful of all lies.",
-    "author": "Claude Debussy",
-    "image": "images/placeholder.jpg",
-    "bio": "Impressionist composer who also expressed deep artistic philosophies.",
-    "medium": "Music Composition",
-    "piece": "Clair de Lune",
-    "year": "1905"
-  },
-  {
-    "content": "A work of art which did not begin in emotion is not art.",
-    "author": "Paul Cézanne",
-    "image": "images/placeholder.jpg",
-    "bio": "French Post-Impressionist who laid groundwork for modern art.",
-    "medium": "Painting",
-    "piece": "The Card Players",
-    "year": "1895"
-  },
-  {
-    "content": "Art is to console those who are broken by life.",
-    "author": "Vincent van Gogh",
-    "image": "images/placeholder.jpg",
-    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
-    "medium": "Painting",
-    "piece": "Starry Night",
-    "year": "1889",
-    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
-  },
-  {
-    "content": "Art is not freedom from discipline, but disciplined freedom.",
-    "author": "John F. Kennedy",
-    "image": "images/placeholder.jpg",
-    "bio": "U.S. President who advocated for arts and culture.",
-    "medium": "Speech",
-    "piece": "Amherst College Speech",
-    "year": "1963"
-  },
-  {
-    "content": "Art speaks where words are unable to explain.",
-    "author": "Mathiole",
-    "image": "images/placeholder.jpg",
-    "bio": "Contemporary digital artist with cosmic and dreamlike themes.",
-    "medium": "Digital Art",
-    "piece": "Dream Series",
-    "year": "2020"
-  },
-  {
-    "content": "Art is therapy.",
-    "author": "Tracey Emin",
-    "image": "images/placeholder.jpg",
-    "bio": "British artist known for confessional and raw autobiographical work.",
-    "medium": "Installation Art",
-    "piece": "My Bed",
-    "year": "1998"
-  },
-  {
-    "content": "The only time I feel alive is when I’m painting.",
-    "author": "Vincent van Gogh",
-    "image": "images/placeholder.jpg",
-    "bio": "Vincent van Gogh was a Dutch Post-Impressionist painter whose emotionally resonant works and expressive use of color profoundly influenced modern art. Though largely unrecognized in his lifetime and plagued by mental health struggles, he produced over 2,000 pieces, including some of the most beloved paintings in history.",
-    "medium": "Painting",
-    "piece": "Starry Night",
-    "year": "1889",
-    "artInfo": "Starry Night is one of Van Gogh’s most iconic works, depicting a swirling night sky over a quiet village. It exemplifies his emotional intensity and imaginative vision."
-  },
-  {
-    "content": "Painting is just another way of keeping a diary.",
-    "author": "Pablo Picasso",
-    "image": "images/placeholder.jpg",
-    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
-    "medium": "Painting & Sculpture",
-    "piece": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
-  },
-  {
-    "content": "Inspiration exists, but it has to find you working.",
-    "author": "Pablo Picasso",
-    "image": "images/placeholder.jpg",
-    "bio": "Pablo Picasso was a Spanish painter, sculptor, and co-founder of the Cubist movement. One of the most prolific and influential artists of the 20th century, he constantly evolved in style—experimenting with realism, surrealism, abstraction, and beyond. His works often conveyed deep personal and political meaning.",
-    "medium": "Painting & Sculpture",
-    "piece": "Les Demoiselles d'Avignon",
-    "year": "1907",
-    "artInfo": "Les Demoiselles d'Avignon is a groundbreaking Cubist work that portrays five nude female figures in a fractured, angular form. It challenged traditional composition and sparked the beginning of modern abstract art."
-  },
-  {
-    "content": "I don’t paint things. I only paint the difference between things.",
-    "author": "Henri Matisse",
-    "image": "images/snail.jpg",
-    "bio": "Henri Matisse was a leading figure in modern art and the founder of Fauvism, a movement known for its wild brushwork and vibrant colors. Over his career, he transitioned from painting to paper cut-outs due to health issues, pushing the boundaries of abstraction and visual emotion.",
-    "medium": "Painting & Collage",
-    "piece": "The Snail",
-    "year": "1943",
-    "artInfo": "The Snail is a late work created with paper cut-outs, arranged in a spiral form to represent a snail. It reflects Matisse’s turn to simplified forms and bold colors in his later years."
-  },
-  {
-    "content": "Drawing is the honesty of the art.",
-    "author": "Jean-Auguste-Dominique Ingres",
-    "image": "images/placeholder.jpg",
-    "bio": "French Neoclassical painter with exceptional draftsmanship.",
-    "medium": "Painting",
-    "piece": "Grande Odalisque",
-    "year": "1814"
-  },
-  {
-    "content": "A true artist is not one who is inspired, but one who inspires others.",
-    "author": "Salvador Dalí",
-    "image": "images/placeholder.jpg",
-    "bio": "Surrealist master of melting clocks and dream logic.",
-    "medium": "Painting",
-    "piece": "The Persistence of Memory",
-    "year": "1931"
-  },
-  {
-    "content": "The object of art is not to reproduce reality, but to create a reality of the same intensity.",
-    "author": "Alberto Giacometti",
-    "image": "images/placeholder.jpg",
-    "bio": "Swiss sculptor known for elongated human forms.",
-    "medium": "Sculpture",
-    "piece": "Walking Man I",
-    "year": "1960"
-  },
-  {
-    "content": "Life beats down and crushes the soul and art reminds you that you have one.",
-    "author": "Stella Adler",
-    "image": "images/placeholder.jpg",
-    "bio": "Acting teacher and advocate for artistic purpose.",
-    "medium": "Theater",
-    "piece": "Acting Techniques",
-    "year": "1950"
+    "year": "1871",
+    "artInfo": "Formally titled 'Arrangement in Grey and Black No.1,' this portrait of Whistler’s mother is celebrated for its compositional balance and subtle emotion, becoming an American cultural icon."
   }
 ]
